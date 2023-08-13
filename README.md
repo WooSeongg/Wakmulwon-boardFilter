@@ -2,7 +2,12 @@
 </br>
 
 ## 다운로드
-(크롬 웹스토어 제출완료)
+<br>
+
+- 크롬 웹스토어 다운로드
+
+[![image](https://github.com/WooSeongg/Wakmulwon-boardFilter/assets/67594952/ee0e5c9d-e85f-4347-95c5-78f195548021)](https://chrome.google.com/webstore/detail/%EC%99%81%EB%AC%BC%EC%9B%90-%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%95%84%ED%84%B0%EB%A7%81/aolmdadamgdcemnmjhaocpblokoplnnl?hl=ko&authuser=2)
+
 </br>
 </br>
 </br>
@@ -13,9 +18,9 @@
 거대한 게시글 파도 속에서도 똥글을 찾아 으 냄시를 달아보세요.
 </br>
 
-![효과1](https://github.com/WooSeongg/Wakmulwon-boardFilter/assets/67594952/3b1976ca-7a89-4f9e-9a21-71c59c788437)
-</br>
-(게시글 15개 중 3개만 남음)
+![효과0 -1](https://github.com/WooSeongg/Wakmulwon-boardFilter/assets/67594952/2b16c30e-11ff-4ba8-898d-395e3134c340)
+
+(게시글 15개 중 4개만 남음)
 
 </br>
 
@@ -26,8 +31,6 @@
 
 </br>
 </br>
-
-## 
 
 ## 🧭업데이트 예정 사항
 - 필터링 기능 ON/OFF
