@@ -1,7 +1,7 @@
 //const boardURL = "/ArticleList.nhn?search.clubid=27842958&search.boardtype=L&search.menuid=&search.marketBoardTab=D&search.specialmenutype=&userDisplay=15&search.page="
 
 document.querySelector('#cafe_main').addEventListener("load", (event) => {
-    console.log(`readystate: ${document.readyState}\n`);
+    //console.log(`readystate: ${document.readyState}\n`);
         
     // cafe_main 속 게시판 문서 찾기
     var cafeMain = document.querySelector('#cafe_main').contentDocument;
