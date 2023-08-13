@@ -6,7 +6,8 @@
 
 - 크롬 웹스토어 다운로드
 
-[![image](https://github.com/WooSeongg/Wakmulwon-boardFilter/assets/67594952/ee0e5c9d-e85f-4347-95c5-78f195548021)](https://chrome.google.com/webstore/detail/%EC%99%81%EB%AC%BC%EC%9B%90-%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%95%84%ED%84%B0%EB%A7%81/aolmdadamgdcemnmjhaocpblokoplnnl?hl=ko&authuser=2)
+[![YT2Grfi9vEBa2wAPzhWa](https://blog.kakaocdn.net/dn/WUltT/btsrauNIKwx/wqsnvOdWpojBazEcpZk2a1/img.png)](https://chrome.google.com/webstore/detail/%EC%99%81%EB%AC%BC%EC%9B%90-%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%95%84%ED%84%B0%EB%A7%81/aolmdadamgdcemnmjhaocpblokoplnnl?hl=ko&authuser=2)
+
 
 </br>
 </br>
